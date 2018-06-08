@@ -8,8 +8,8 @@ header {
 
 h1 {
   grid-column: 1/span 2;
-  margin-left: 1rem;
-  color: orange;
+  margin-left: 2rem;
+  color: green;
 }
 
 nav {
@@ -19,5 +19,11 @@ nav {
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size:
+  font-size: 12px;
+}
+
+footer {
+  font-size: 8px;
+  color: green;
+
 }
