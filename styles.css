@@ -8,7 +8,7 @@ header {
 
 h1 {
   grid-column: 1/span 2;
-  margin-left: 2rem;
+  margin-left: 3rem;
   color: green;
 }
 
@@ -17,13 +17,11 @@ nav {
 }
 
 nav a {
-  text-decoration: none;
-  color: darkgrey;
-  font-size: 12px;
+  color: silver;
+  font-size: 22px;
 }
 
 footer {
-  font-size: 8px;
+  font-size: 7px;
   color: green;
-
 }
